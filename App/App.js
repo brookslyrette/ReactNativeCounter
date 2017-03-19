@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import {
   AppRegistry,
-  Button,
   StyleSheet,
   View
 } from 'react-native';
